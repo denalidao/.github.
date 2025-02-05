@@ -1,1 +1,3 @@
-# .github.
+Denali DAO is an autonomous organization aiming to level the economic playing field by facilitating financial autonomy in a decentralized, and transparent way. To differentiate Denali from other decentralized autonomous organizations (DAO). Denali introduces a one (1) member equals 1 vote for decentralized voting and decision-making.
+
+The Denali Nexus Key (DNK) NFT bridges the gap between emerging community tokens and established cryptocurrencies. Powered by the Denali Market Exchange (DMX) utility token, members enjoy lifetime rewards, exclusive perks, and evolving lifestyle benefits. These premium advantages are reserved solely for DNK NFT holders, empowering our community with lasting value and growth.
